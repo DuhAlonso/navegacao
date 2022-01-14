@@ -11,7 +11,7 @@ App básico sobre navegação entre telas
 
 ## Screenshots
 
-<img src="https://github.com/DuhAlonso/repodetails/blob/main/screenshot/Screen1.gif" width="250">
+<img src="https://github.com/DuhAlonso/navegacao/blob/main/screenshot/Screen1.gif" width="250">
 
 </br>
 </br>
